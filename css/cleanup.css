@@ -1,1 +1,14 @@
 /* write your override styles here */
+head title {
+    padding: 40px;
+    text-align: center;
+    background: #bc1a6b;
+    color: blue;
+    font-size: 35px;
+    text-decoration: none;
+    border: 2px snow;
+    display: inline-block;
+    background-color: aliceblue;
+    padding: 30px;
+    font-size: 25px;
+}
